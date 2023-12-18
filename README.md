@@ -1,4 +1,4 @@
-# TechnoHack_Intern
+# TechnoHack_Intern_C++_Programming
 
 
 ## Task_1 : [Calculator]()
