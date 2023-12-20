@@ -16,3 +16,7 @@ guess the correct number.
 Create a program that allows the user to play
 the classic game of rock, paper, scissors
 against the computer.
+
+## Task_4 : [Dice Roller](https://github.com/Moataz-Elhawary/TechnoHack_Intern/tree/main/Task_4/Dice%20Roller)
+Create a program that simulates rolling a pair of dice and displays the result.
+
